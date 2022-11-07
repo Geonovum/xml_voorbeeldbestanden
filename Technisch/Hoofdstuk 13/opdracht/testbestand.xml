@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm1979/2022/testbestand</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm1979/2022/testbestand/nld@2022-10-31;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm1979</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm1979</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Testbestand DSO</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Testbestand DSO</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_124eaf3a</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Centrumgebied/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Bouwvlak_centrumgebied/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Bouwvlak_met_voorgeschreven_rooilijn/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Rooilijn/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Landelijk_gebied/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Bouwvlak_landelijk_gebied/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Industrieterrein/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Geluidproductieplafond/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Punt/nld@2022-10-31;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1979/2022/Hoofdinfrastructuur/nld@2022-10-31;1</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2022-10-31</bekendOp>
+         <ontvangenOp>2022-10-31</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-04-15</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm1979/2022/testbestand/nld@2022-10-31;1</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Centrumgebied/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Bouwvlak_centrumgebied/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Bouwvlak_met_voorgeschreven_rooilijn/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Rooilijn/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Landelijk_gebied/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Bouwvlak_landelijk_gebied/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Industrieterrein/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Geluidproductieplafond/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Punt/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm1979/2022/Hoofdinfrastructuur/nld@2022-10-31;1</instrumentVersie>
+               <eId>!regeling_001#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm1979/2022/instellen_regeling_001</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-11-01</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>wijziging omgevingsplan Delfzijl</Al>
+         </RegelingOpschrift>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm1979_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Bij deze wordt testhoofdstuk 13 vastgesteld conform <IntRef ref="cmp_A">Bijlage A</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm1979_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Het testhoofdstuk treedt in werking per 1 november 2022.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <WijzigBijlage eId="cmp_A" wId="gm1979_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingCompact componentnaam="regeling_001"
+                             wordt="/akn/nl/act/gm1979/2022/testbestand/nld@2022-10-31;1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Testbestand DSO</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Hoofdstuk eId="chp_1" wId="gm1979_1__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Algemeen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_1__art_1.1" wId="gm1979_1__chp_1__art_1.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Begripsbepalingen</Opschrift>
+                        </Kop>
+                        <Lid eId="chp_1__art_1.1__para_1" wId="gm1979_1__chp_1__art_1.1__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Dit is een versie waarbij de activiteiten weerzijn aangevuld. Begripsbepalingen die, op de dag van de inwerkingtreding van de Omgevingswet, zijn opgenomen in de bijlage bij de Omgevingswet en in bijlage I bij het Besluit activiteiten leefomgeving, bijlage I bij het Besluit bouwwerken leefomgeving, bijlage I bij het Besluit kwaliteit leefomgeving, bijlage I bij het Omgevingsbesluit en bijlage I bij de Omgevingsregeling, zijn van toepassing op hoofdstuk 22 van dit omgevingsplan.</Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.1__para_2" wId="gm1979_1__chp_1__art_1.1__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Bijlage I bij dit omgevingsplan bevat begripsbepalingen voor de toepassing van hoofdstuk 22 van dit omgevingsplan.</Al>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.2" wId="gm1979_1__chp_1__art_1.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.2</Nummer>
+                           <Opschrift>Meet- en rekenbepalingen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Lijst eId="chp_1__art_1.2__list_o_1"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1"
+                                  type="expliciet">
+                              <Lijstaanhef>Bij toepassing van deze regels wordt als volgt gemeten:</Lijstaanhef>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_1"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_1">
+                                 <LiNummer>1.</LiNummer>
+                                 <Al>de bouwhoogte van een bouwwerk: <br/>vanaf het peil tot aan het hoogste punt van een gebouw of van een bouwwerk, geen gebouw zijnde, met uitzondering van ondergeschikte bouwonderdelen, zoals schoorstenen, antennes, en naar de aard daarmee gelijk te stellen bouwonderdelen;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_2"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_2">
+                                 <LiNummer>2.</LiNummer>
+                                 <Al>de bouwhoogte van een hijsinstallatie c.q. hijskraan: <br/>vanaf het peil tot aan het hoogste vaste punt van de installatie.</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_3"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_3">
+                                 <LiNummer>3.</LiNummer>
+                                 <Al>de dakhelling:<br/>langs het dakvlak ten opzichte van het horizontale vlak;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_4"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_4">
+                                 <LiNummer>4.</LiNummer>
+                                 <Al>de goothoogte van een bouwwerk:<br/>vanaf het peil tot aan de bovenkant van de goot, c.q. de druiplijn, het boeibord, of een daarmee gelijk te stellen constructiedeel;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_5"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_5">
+                                 <LiNummer>5.</LiNummer>
+                                 <Al>de inhoud van een bouwwerk: <br/>tussen de onderzijde van de begane grondvloer, de buitenzijde van de gevels (en/of het hart van de scheidingsmuren) en de buitenzijde van daken en dakkapellen;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_6"
+                                  wId="gm1979_1__chp_1__art_1.2__list_o_1__item_6">
+                                 <LiNummer>6.</LiNummer>
+                                 <Al>de oppervlakte van een bouwwerk: <br/>tussen de buitenwerkse gevelvlakken en/of het hart van de scheidingsmuren, neerwaarts geprojecteerd op het gemiddelde niveau van het afgewerkte bouwterrein ter plaatse van het bouwwerk.</Al>
+                              </Li>
+                           </Lijst>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_13" wId="gm1979_1__chp_13">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>13</Nummer>
+                        <Opschrift>Technische voorbeelden voor het DSO</Opschrift>
+                     </Kop>
+                     <Paragraaf eId="chp_13__subsec_13.1" wId="gm1979_1__chp_13__subsec_13.1">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.1</Nummer>
+                           <Opschrift>Voorbeelden mbt Lijnen en Punten</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.1"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.1">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.1</Nummer>
+                              <Opschrift>Functietoedeling</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Aan de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.1__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.1__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Centrumgebied</IntIoRef>' is de functie 'Centrumgebied' toegedeeld.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.2"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.2">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.2</Nummer>
+                              <Opschrift>Positionering gebouwen</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Binnen het Centrumgebied zijn bovengrondse gebouwen, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.2__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.2__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Bouwvlak centrumgebied</IntIoRef>'.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.3"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.3">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.3</Nummer>
+                              <Opschrift>Voorgeschreven rooilijn (m.b.v. lijn)</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Ter plaatse van de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.3__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.3__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">Bouwvlak met voorgeschreven rooilijn</IntIoRef>' geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding '<IntIoRef eId="chp_13__subsec_13.1__art_13.3__ref_o_2"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.3__ref_o_2"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Rooilijn</IntIoRef>' moet worden gebouwd.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.4"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.4">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.4</Nummer>
+                              <Opschrift>Functietoedeling</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Aan de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.4__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.4__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Landelijk gebied</IntIoRef>' is de functie 'Landelijk gebied' toegedeeld.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.5"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.5">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.5</Nummer>
+                              <Opschrift>Positionering gebouwen</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Bovengrondse gebouwen zijn, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.5__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.5__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Bouwvlak landelijk gebied</IntIoRef>'.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.6"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.6">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.6</Nummer>
+                              <Opschrift>Voorgeschreven rooilijn (m.b.v. lijnengroep)</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Daar waar de aanduiding '<IntIoRef eId="chp_13__subsec_13.1__art_13.6__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.6__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Rooilijn</IntIoRef>' voorkomt, moet de gevel van bovengrondse gebouwen op die lijn worden gebouwd.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.7"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.7">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.7</Nummer>
+                              <Opschrift>Waar omgevingswaarden geluidproductieplafonds industrieterreinen gelden</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>De omgevingswaarden voor geluidproductieplafonds rondom industrieterreinen waar activiteiten kunnen worden verricht die in aanzienlijke mate geluid kunnen veroorzaken gelden ter plaatse van de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.7__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.7__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Industrieterrein</IntIoRef>'.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.8"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.8">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.8</Nummer>
+                              <Opschrift>Omgevingswaarden voor geluidproductieplafonds industrieterreinen</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>De omgevingswaarden voor geluidproductieplafonds als bedoeld in artikel Z.1 zijn de waarden die zijn vastgelegd ter plaatse van de locatie '<IntIoRef eId="chp_13__subsec_13.1__art_13.8__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.8__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Geluidproductieplafond</IntIoRef>'.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.9"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.9">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.9</Nummer>
+                              <Opschrift>Termijn en aard verplichting</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Aan de omgevingswaarden voor geluidproductieplafonds als bedoeld in artikel Z.1 wordt voldaan met ingang van 1 april 2024. De omgevingswaarden voor geluidproductieplafonds zijn resultaatsverplichtingen.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.1__art_13.10"
+                                 wId="gm1979_1__chp_13__subsec_13.1__art_13.10">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.10</Nummer>
+                              <Opschrift>Punt</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is een voorbeeld van een <IntIoRef eId="chp_13__subsec_13.1__art_13.10__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.1__art_13.10__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Punt</IntIoRef>.</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.2" wId="gm1979_1__chp_13__subsec_13.2">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.2</Nummer>
+                           <Opschrift>Indicatief en Exact</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.2__art_13.11"
+                                 wId="gm1979_1__chp_13__subsec_13.2__art_13.11">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.11</Nummer>
+                              <Opschrift>Exact</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is een voorbeeld van een exact te interpreteren juridische regel: De <IntIoRef eId="chp_13__subsec_13.2__art_13.11__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.2__art_13.11__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1">Hoofdinfrastructuur</IntIoRef> bestaat uit de weg-, vaarweg- en spoorwegverbindingen van en naar de stedelijke centra en streekcentra en uit hoofdfietsverbindingen en multimodale knooppunten.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.2__art_13.12"
+                                 wId="gm1979_1__chp_13__subsec_13.2__art_13.12">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.12</Nummer>
+                              <Opschrift>Indicatief</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is een voorbeeld van een indicatief te interpreteren juridische regel: Een omgevingsplan voorziet alleen in nieuwe grootschalige ontwikkelingen die bovenlokale verkeersbewegingen met zich meebrengen of effecten hebben op de verkeersafwikkeling op de <IntIoRef eId="chp_13__subsec_13.2__art_13.12__ref_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.2__art_13.12__ref_o_1"
+                                           ref="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1">Hoofdinfrastructuur</IntIoRef>, als rekening is gehouden met het uitgangspunt dat ontwikkelingen die mobiliteit oproepen, geprojecteerd worden nabij aansluitingen op de provinciale wegen.</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.3" wId="gm1979_1__chp_13__subsec_13.3">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.3</Nummer>
+                           <Opschrift>Verwijzingen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.3__art_13.13"
+                                 wId="gm1979_1__chp_13__subsec_13.3__art_13.13">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.13</Nummer>
+                              <Opschrift>Verschillende soorten verwijzingen uit OP</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>In de volgende lijst staan een hoop verwijzingssoorten:</Al>
+                              <Lijst eId="chp_13__subsec_13.3__art_13.13__list_o_1"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1"
+                                     type="expliciet">
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_1"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_1">
+                                    <LiNummer>1.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.1__art_13.1">Artikel</IntRef>. (Artikel 13.1)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_2"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_2">
+                                    <LiNummer>2.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_13">Hoofdstuk</IntRef>. (Hoofdstuk 13)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_3"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_3">
+                                    <LiNummer>3.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.2"/>Paragraaf. (Paragraaf 13.2)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_4"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_4">
+                                    <LiNummer>4.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_1__art_1.1">Artikel</IntRef> uit de geconsolideerde Regeling (niet aangeleverd met het huidige besluit, Artikel 1.1).</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_5"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_5">
+                                    <LiNummer>5.</LiNummer>
+                                    <Al>Verwijzing naar een <ExtRef soort="URL"
+                                               ref="https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD">website</ExtRef>. (Opleverpagina van Geonovum, ExtRef met soort URL)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_6"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_6">
+                                    <LiNummer>6.</LiNummer>
+                                    <Al>Verwijzing naar een GIO (IntIoRef) (naar Kamerverhuur-GIO).</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_7"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_7">
+                                    <LiNummer>7.</LiNummer>
+                                    <Al>Verwijzing (dynamisch) naar een <ExtRef soort="JOIN" ref="/join/id/regdata/gm1979/2019/Bedrijf_categorie_2">GIO</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-dynamisch).</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_8"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_8">
+                                    <LiNummer>8.</LiNummer>
+                                    <Al>Verwijzing (statisch) naar een <ExtRef soort="JOIN"
+                                               ref="/join/id/regdata/gm1979/2019/Centrumgebied/nld@2019-06-18;3520">GIO-versie</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-statisch, middels ExtRef-soort JOIN).</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_9"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_9">
+                                    <LiNummer>9.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.3__art_13.13__list_o_1__item_1">LijstItem</IntRef> (eerste punt van dit Artikel).</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_10"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_10">
+                                    <LiNummer>10.</LiNummer>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_1__art_1.2__list_o_1__item_1">Begrip (of meet- en rekenbepaling)</IntRef> c.q. eerste lijstitem van begrippenlijst.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_11"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_11">
+                                    <LiNummer>11.</LiNummer>
+                                    <Al>Verwijzing naar een <ExtRef soort="AKN"
+                                               ref="/akn/nl/act/gm1979/2019/reg456#chp_2__subchp_2.3__art_2.10">artikel</ExtRef> uit een andere regeling. (ExtRef-akn)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_12"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_12">
+                                    <LiNummer>12.</LiNummer>
+                                    <Al>Verwijzing naar een <ExtRef soort="JCI"
+                                               ref="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;z=2020-01-01&amp;g=2020-01-01">artikel uit een andere regeling</ExtRef> (juriconnect-identifier richting artikel 1.1 uit algemene wet bestuursrecht)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_13"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_13">
+                                    <LiNummer>13.</LiNummer>
+                                    <Al>Verwijzing naar een <ExtRef soort="document" ref="kst-33962-3">document</ExtRef> (ExtRef-soort: document, documentID van STOP-documentatiesite gehaald.)</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_14"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_14">
+                                    <LiNummer>14.</LiNummer>
+                                    <Al>Dit is een verwijzing met een <Noot id="N2" type="voet">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de voetnoot.</Al>
+                                       </Noot>voetnoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_15"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_15">
+                                    <LiNummer>15.</LiNummer>
+                                    <Al>Dit is een verwijzing met een <Noot id="N3" type="marge">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de margenoot.</Al>
+                                       </Noot>margenoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_16"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_16">
+                                    <LiNummer>16.</LiNummer>
+                                    <Al>Dit is een verwijzing met een <Noot id="N4" type="eind">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de eindnoot.</Al>
+                                       </Noot>eindnoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.13__list_o_1__item_17"
+                                     wId="gm1979_1__chp_13__subsec_13.3__art_13.13__list_o_1__item_17">
+                                    <LiNummer>17.</LiNummer>
+                                    <Al>Dit is een verwijzing met een verdwaalde <Noot id="N5" type="tabel">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de tabelnoot.</Al>
+                                       </Noot>tabelnoot.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.4" wId="gm1979_1__chp_13__subsec_13.4">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.4</Nummer>
+                           <Opschrift>PDF-bijlagen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.4__art_13.14"
+                                 wId="gm1979_1__chp_13__subsec_13.4__art_13.14">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.14</Nummer>
+                              <Opschrift>Publicatie-PDF</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Deze PDF is alleen relevant voor bij het publiceren. TO-DO</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.4__art_13.15"
+                                 wId="gm1979_1__chp_13__subsec_13.4__art_13.15">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.15</Nummer>
+                              <Opschrift>Consolidatie-PDF</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Deze PDF is relevant voor de gehele regeling. TO-DO</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.5" wId="gm1979_1__chp_13__subsec_13.5">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.5</Nummer>
+                           <Opschrift>Kaartobjecten</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.5__art_o_1"
+                                 wId="gm1979_1__chp_13__subsec_13.5__art_o_1">
+                           <Kop>
+                              <Opschrift>Voorbeeldkaart</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is de voorbeeldkaart</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_o_6" wId="gm1979_1__chp_13__subsec_o_6">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Opschrift>Varianten van artikel-koppen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_o_6__art_13.16"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_13.16">
+                           <Kop>
+                              <Nummer>13.16</Nummer>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 1. Alleen nummer ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_o_2"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_o_2">
+                           <Kop>
+                              <Label>Artikel</Label>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 2. Alleen label ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_o_3"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_o_3">
+                           <Kop>
+                              <Opschrift>Derde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 3. Alleen opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_13.17"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_13.17">
+                           <Kop>
+                              <Nummer>13.17</Nummer>
+                              <Label>Artikel</Label>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 4. Nummer en label ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_13.18"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_13.18">
+                           <Kop>
+                              <Nummer>13.18</Nummer>
+                              <Opschrift>Vijfde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 5. Nummer en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_o_6"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_o_6">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Opschrift>Zesde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 6. Label en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_o_6__art_13.19"
+                                 wId="gm1979_1__chp_13__subsec_o_6__art_13.19">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.19</Nummer>
+                              <Opschrift>Zevende variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 7. Label, Nummer en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.7" wId="gm1979_1__chp_13__subsec_13.7">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.7</Nummer>
+                           <Opschrift>Voorbeelden met Tabellen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.7__art_13.20"
+                                 wId="gm1979_1__chp_13__subsec_13.7__art_13.20">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.20</Nummer>
+                              <Opschrift>Tabel met titel zonder headers</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <table xmlns:dso="https://www.dso.nl/"
+                                     eId="chp_13__subsec_13.7__art_13.20__table_o_1"
+                                     wId="gm1979_1__chp_13__subsec_13.7__art_13.20__table_o_1"
+                                     dso:class="standaard"
+                                     frame="all"
+                                     colsep="1"
+                                     rowsep="1">
+                                 <title>Tabeltitel</title>
+                                 <tgroup cols="5" align="left">
+                                    <colspec colname="col1" colwidth="1585*"/>
+                                    <colspec colname="col2" colwidth="1585*"/>
+                                    <colspec colname="col3" colwidth="1585*"/>
+                                    <colspec colname="col4" colwidth="1586*"/>
+                                    <colspec colname="col5" colwidth="1586*"/>
+                                    <tbody valign="top">
+                                       <row>
+                                          <entry namest="col1" nameend="col1" morerows="1" align="left">
+                                             <Al>Verticaal samengevoegde cel</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col5" align="left">
+                                             <Al>Horizontaal samengevoegde cel</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Tabelcel met enkele alinea</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Tabelcel met meerdere alinea’s.</Al>
+                                             <Al>Alinea 2.</Al>
+                                             <Al>Alinea 3.</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Lijst eId="chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Tabelcel met lijst:</Lijstaanhef>
+                                                <Li eId="chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1__item_1"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1__item_1">
+                                                   <LiNummer>1.</LiNummer>
+                                                   <Al>Item 1</Al>
+                                                </Li>
+                                                <Li eId="chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1__item_2"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.20__table_o_1__list_o_1__item_2">
+                                                   <LiNummer>2.</LiNummer>
+                                                   <Al>Item 2</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Tabelcel met <b>vet</b>, <i>cursief</i>.</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col5" align="left">
+                                             <Al>Tabelcel met afbeelding</Al>
+                                             <Figuur eId="chp_13__subsec_13.7__art_13.20__table_o_1__img_o_1"
+                                                     wId="gm1979_1__chp_13__subsec_13.7__art_13.20__table_o_1__img_o_1">
+                                                <Illustratie naam="image1.png"
+                                                             formaat="image/png"
+                                                             breedte="7813"
+                                                             hoogte="4228"
+                                                             dpi="72"
+                                                             uitlijning="start"/>
+                                             </Figuur>
+                                          </entry>
+                                       </row>
+                                    </tbody>
+                                 </tgroup>
+                              </table>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.7__art_13.21"
+                                 wId="gm1979_1__chp_13__subsec_13.7__art_13.21">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.21</Nummer>
+                              <Opschrift>Tabel zonder titel met headers</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <table xmlns:dso="https://www.dso.nl/"
+                                     eId="chp_13__subsec_13.7__art_13.21__table_o_1"
+                                     wId="gm1979_1__chp_13__subsec_13.7__art_13.21__table_o_1"
+                                     dso:class="standaard"
+                                     frame="all"
+                                     colsep="1"
+                                     rowsep="1">
+                                 <tgroup cols="5" align="left">
+                                    <colspec colname="col1" colwidth="1585*"/>
+                                    <colspec colname="col2" colwidth="1585*"/>
+                                    <colspec colname="col3" colwidth="1585*"/>
+                                    <colspec colname="col4" colwidth="1586*"/>
+                                    <colspec colname="col5" colwidth="1586*"/>
+                                    <tbody valign="top">
+                                       <row>
+                                          <entry namest="col1" nameend="col1" align="left">
+                                             <Al>Header 1</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Header 2</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Header 3</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Al>Header 4</Al>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Header 5</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col1" morerows="1" align="left">
+                                             <Al>Verticaal samengevoegde cel</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col5" align="left">
+                                             <Al>GIO-verwijzing als IntIoRef</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Tabelcel met enkele alinea</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Tabelcel met meerdere alinea’s.</Al>
+                                             <Al>Alinea 2.</Al>
+                                             <Al>Alinea 3.</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Lijst eId="chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Tabelcel met lijst:</Lijstaanhef>
+                                                <Li eId="chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1__item_1"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1__item_1">
+                                                   <LiNummer>1.</LiNummer>
+                                                   <Al>Item 1</Al>
+                                                </Li>
+                                                <Li eId="chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1__item_2"
+                                                    wId="gm1979_1__chp_13__subsec_13.7__art_13.21__table_o_1__list_o_1__item_2">
+                                                   <LiNummer>2.</LiNummer>
+                                                   <Al>Item 2</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Tabelcel met <b>vet</b>, <i>cursief</i>.</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col5" align="left">
+                                             <Al>Tabelcel met afbeelding</Al>
+                                             <Figuur eId="chp_13__subsec_13.7__art_13.21__table_o_1__img_o_1"
+                                                     wId="gm1979_1__chp_13__subsec_13.7__art_13.21__table_o_1__img_o_1">
+                                                <Illustratie naam="image1.png"
+                                                             formaat="image/png"
+                                                             breedte="7813"
+                                                             hoogte="4228"
+                                                             dpi="72"
+                                                             uitlijning="start"/>
+                                             </Figuur>
+                                          </entry>
+                                       </row>
+                                    </tbody>
+                                 </tgroup>
+                              </table>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.8" wId="gm1979_1__chp_13__subsec_13.8">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.8</Nummer>
+                           <Opschrift>Voorbeelden met Lijsten</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.8__art_13.22"
+                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.22</Nummer>
+                              <Opschrift>Lijstvoorbeeld</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_1"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1"
+                                     type="expliciet">
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_1"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_1">
+                                    <LiNummer>1.</LiNummer>
+                                    <Al>Item 1, niveau 1</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2">
+                                    <LiNummer>2.</LiNummer>
+                                    <Al>Item 2, niveau 1</Al>
+                                    <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 1, niveau 2</Al>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 2, niveau 2</Al>
+                                          <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1"
+                                                 type="expliciet">
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_1"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_1">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 1, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_2"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_2">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 2, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_3"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_3">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 3, niveau 3</Al>
+                                             </Li>
+                                          </Lijst>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_3"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_2__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 3, niveau 2</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_1__item_3"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_1__item_3">
+                                    <LiNummer>3. </LiNummer>
+                                    <Al>Item 3, niveau 1</Al>
+                                 </Li>
+                              </Lijst>
+                              <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_2"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2"
+                                     type="expliciet">
+                                 <Lijstaanhef>Nu met lijstaanhef:</Lijstaanhef>
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_1"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_1">
+                                    <LiNummer>1.</LiNummer>
+                                    <Al>Item 1, niveau 1</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2">
+                                    <LiNummer>2.</LiNummer>
+                                    <Al>Item 2, niveau 1</Al>
+                                    <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1"
+                                           type="expliciet">
+                                       <Lijstaanhef>Niveau 2:</Lijstaanhef>
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_1"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 1, niveau 2</Al>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 2, niveau 2</Al>
+                                          <Lijst eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1"
+                                                 type="expliciet">
+                                             <Lijstaanhef>Niveau 3:</Lijstaanhef>
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_1"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_1">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 1, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_2"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_2">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 2, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_3"
+                                                 wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_3">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 3, niveau 3</Al>
+                                             </Li>
+                                          </Lijst>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_3"
+                                           wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_2__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 3, niveau 2</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.22__list_o_2__item_3"
+                                     wId="gm1979_1__chp_13__subsec_13.8__art_13.22__list_o_2__item_3">
+                                    <LiNummer>3. </LiNummer>
+                                    <Al>Item 3, niveau 1</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.9" wId="gm1979_1__chp_13__subsec_13.9">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.9</Nummer>
+                           <Opschrift>Afbeeldingen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.9__art_13.23"
+                                 wId="gm1979_1__chp_13__subsec_13.9__art_13.23">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.23</Nummer>
+                              <Opschrift>Gehele breedte</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is hoe de kaart uit <IntRef ref="chp_13__subsec_13.5">13.5</IntRef> er uit zou moeten zien.</Al>
+                              <Figuur eId="chp_13__subsec_13.9__art_13.23__img_o_1"
+                                      wId="gm1979_1__chp_13__subsec_13.9__art_13.23__img_o_1">
+                                 <Illustratie naam="image2.jpeg"
+                                              formaat="image/jpeg"
+                                              breedte="7937"
+                                              hoogte="4295"
+                                              dpi="72"
+                                              uitlijning="start"/>
+                                 <Bijschrift locatie="boven">Figuur over de hele breedte</Bijschrift>
+                              </Figuur>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.9__art_13.24"
+                                 wId="gm1979_1__chp_13__subsec_13.9__art_13.24">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.24</Nummer>
+                              <Opschrift>Vijftig procent breedte</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Tekst</Al>
+                              <Figuur eId="chp_13__subsec_13.9__art_13.24__img_o_1"
+                                      wId="gm1979_1__chp_13__subsec_13.9__art_13.24__img_o_1">
+                                 <Illustratie naam="image3.png"
+                                              formaat="image/png"
+                                              breedte="3969"
+                                              hoogte="3997"
+                                              dpi="72"
+                                              uitlijning="start"/>
+                                 <Bijschrift locatie="onder">Figuur over 50% van de tekstbreedte.</Bijschrift>
+                              </Figuur>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_I" wId="gm1979_1__cmp_I">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="gm1979_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                        wId="gm1979_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Centrumgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Centrumgebied/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Centrumgebied/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_2">
+                              <Term>Bouwvlak centrumgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Bouwvlak_centrumgebied/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Bouwvlak_centrumgebied/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_3">
+                              <Term>Bouwvlak met voorgeschreven rooilijn</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Bouwvlak_met_voorgeschreven_rooilijn/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Bouwvlak_met_voorgeschreven_rooilijn/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_4">
+                              <Term>Rooilijn</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Rooilijn/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Rooilijn/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_5">
+                              <Term>Landelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Landelijk_gebied/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Landelijk_gebied/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Term>Bouwvlak landelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Bouwvlak_landelijk_gebied/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Bouwvlak_landelijk_gebied/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Term>Industrieterrein</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Industrieterrein/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Industrieterrein/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_8">
+                              <Term>Geluidproductieplafond</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Geluidproductieplafond/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Geluidproductieplafond/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Term>Punt</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Punt/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Punt/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10"
+                                   wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_10">
+                              <Term>Hoofdinfrastructuur</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                              wId="gm1979_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                              ref="/join/id/regdata/gm1979/2022/Hoofdinfrastructuur/nld@2022-10-31;1">/join/id/regdata/gm1979/2022/Hoofdinfrastructuur/nld@2022-10-31;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingCompact>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm1979/2022/testbestand</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm1979/2022/testbestand/nld@2022-10-31;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm1979</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm1979</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Testbestand DSO</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Testbestand DSO</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
+                  <label>Artikel 5.44 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_124eaf3a</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
