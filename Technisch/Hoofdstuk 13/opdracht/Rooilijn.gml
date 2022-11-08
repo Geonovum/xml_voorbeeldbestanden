@@ -22,10 +22,11 @@
             <geo:Locatie>
                <geo:naam>Rooilijn</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-fcae9a93-276e-4c39-ad18-17b2a9625afa-xx">
                      <basisgeo:id>fcae9a93-276e-4c39-ad18-17b2a9625afa</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiCurve srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiCurve gml:id="id-fcae9a93-276e-4c39-ad18-17b2a9625afa-0"
+                                        srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:curveMember>
                               <gml:LineString>
                                  <gml:posList>256580.739 590167.172 256584.826 590166.396</gml:posList>

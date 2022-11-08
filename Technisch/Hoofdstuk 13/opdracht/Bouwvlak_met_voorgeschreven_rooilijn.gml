@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Bouwvlak met voorgeschreven rooilijn</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-f721e8b1-da40-4b30-919e-14bae87ef6df-xx">
                      <basisgeo:id>f721e8b1-da40-4b30-919e-14bae87ef6df</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-f721e8b1-da40-4b30-919e-14bae87ef6df-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

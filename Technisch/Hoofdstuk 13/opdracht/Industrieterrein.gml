@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Industrieterrein</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-e836317e-cc99-467a-a433-84a1782856a5-xx">
                      <basisgeo:id>e836317e-cc99-467a-a433-84a1782856a5</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-e836317e-cc99-467a-a433-84a1782856a5-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

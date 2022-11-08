@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Centrumgebied</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-7b5eae16-03c7-4f43-8f2e-9e803b7316c9-xx">
                      <basisgeo:id>7b5eae16-03c7-4f43-8f2e-9e803b7316c9</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-7b5eae16-03c7-4f43-8f2e-9e803b7316c9-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

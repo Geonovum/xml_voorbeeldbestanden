@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Bouwvlak centrumgebied</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-92fd9109-991a-4484-97e2-9ca8e3971042-xx">
                      <basisgeo:id>92fd9109-991a-4484-97e2-9ca8e3971042</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-92fd9109-991a-4484-97e2-9ca8e3971042-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

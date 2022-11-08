@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Bouwvlak landelijk gebied</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-38915c98-7f8e-4e10-a5cc-a8b653b76b75-xx">
                      <basisgeo:id>38915c98-7f8e-4e10-a5cc-a8b653b76b75</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-38915c98-7f8e-4e10-a5cc-a8b653b76b75-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Landelijk gebied</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-0fae6f39-e4cc-48a4-9bf4-eebec0d51b58-xx">
                      <basisgeo:id>0fae6f39-e4cc-48a4-9bf4-eebec0d51b58</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-0fae6f39-e4cc-48a4-9bf4-eebec0d51b58-0"
+                                          srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

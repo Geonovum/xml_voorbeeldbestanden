@@ -20,10 +20,11 @@
             <geo:Locatie>
                <geo:naam>Punt</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie>
+                  <basisgeo:Geometrie gml:id="id-5e103e7e-511a-49dd-8b4a-50405d35721b-xx">
                      <basisgeo:id>5e103e7e-511a-49dd-8b4a-50405d35721b</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiPoint srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiPoint gml:id="id-5e103e7e-511a-49dd-8b4a-50405d35721b-0"
+                                        srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:pointMember>
                               <gml:Point>
                                  <gml:pos>257329.885 593814.945</gml:pos>
