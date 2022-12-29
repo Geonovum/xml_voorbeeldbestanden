@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/mnre1045/2022/PE001-004</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1045/2022/PE001-004/nld@2022-12-29;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20221125003/nld@2022-11-25;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20221125002/nld@2022-11-25;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25;2</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2022-08-09</bekendOp>
+         <ontvangenOp>2022-08-09</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2022-08-09</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2022-08-09</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/PE001-003/nld@2022-11-25;2</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20221125003/nld@2022-11-25;2</instrumentVersie>
+               <eId>!regeling_002#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25;2</instrumentVersie>
+               <eId>!regeling_002#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20221125002/nld@2022-11-25;2</instrumentVersie>
+               <eId>!regeling_002#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25;2</instrumentVersie>
+               <eId>!regeling_002#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/mnre1045/2022/instelling_regeling_002</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-01-01</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Programma Energiehoofdstructuur</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Samenvatting en ontwikkelingsperspectief 2030 en 2050</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="mnre1045_2__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+                  <Opschrift/>
+               </Kop>
+               <Wat>Het Programma Energiehoofdstructuur wordt vastgesteld, zoals aangegeven in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="mnre1045_2__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+                  <Opschrift/>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit programma treedt in werking op 1 januari 2023.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>De minister van Binnenlandse Zaken en Koninkrijksrelaties,</Al>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_I" wId="mnre1045_2__cmp_I">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>I</Nummer>
+            </Kop>
+            <RegelingMutatie componentnaam="regeling_002" was="/akn/nl/act/mnre1045/2022/PE001-003/nld@2022-11-25;1" wordt="/akn/nl/act/mnre1045/2022/PE001-003/nld@2022-11-25;2">
+               <VervangRegeling>
+                  <RegelingVrijetekst>
+                     <RegelingOpschrift eId="longTitle" wId="longTitle">
+                        <Al>Programma Energiehoofdstructuur</Al>
+                     </RegelingOpschrift>
+                     <Lichaam eId="body" wId="body">
+                        <Divisietekst eId="content_o_1" wId="mnre1045_2__content_o_1">
+                           <Kop>
+                              <Opschrift>Besluit Algemene Regels Ruimtelijke Ordening (Barro)</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Lijst eId="content_o_1__list_o_1"
+                                 wId="mnre1045_2__content_o_1__list_o_1"
+                                 type="expliciet">
+                                 <Lijstaanhef>Het Besluit Algemene Regels Ruimtelijke Ordening (Barro) is de juridische borging van het ruimtelijk beleid op nationaal niveau. Hierin zijn de volgende elementen opgenomen die relevant zijn in relatie tot het Programma Energiehoofdstructuur:</Lijstaanhef>
+                                 <Li eId="content_o_1__list_o_1__item_o_1"
+                                    wId="mnre1045_2__content_o_1__list_o_1__item_o_1">
+                                    <LiNummer>•</LiNummer>
+                                    <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor <IntIoRef eId="content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="mnre1045_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">vestigingsplaatsen voor grootschalige elektriciteitsopwekking &gt;500MW</IntIoRef>
+                                    </Al>
+                                 </Li>
+                                 <Li eId="content_o_1__list_o_1__item_o_2"
+                                    wId="mnre1045_2__content_o_1__list_o_1__item_o_2">
+                                    <LiNummer>•</LiNummer>
+                                    <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor <IntIoRef eId="content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       wId="mnre1045_2__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       ref="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1">vestigingsplaatsen voor kernenergiecentrales</IntIoRef>.</Al>
+                                 </Li>
+                                 <Li eId="content_o_1__list_o_1__item_o_3"
+                                    wId="mnre1045_2__content_o_1__list_o_1__item_o_3">
+                                    <LiNummer>•</LiNummer>
+                                    <Al>Aanwijzingen en bijbehorende ruimtelijke <IntIoRef eId="content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       wId="mnre1045_2__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       ref="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1">reserveringen voor hoogspanningsverbindingen</IntIoRef>.</Al>
+                                 </Li>
+                                 <Li eId="content_o_1__list_o_1__item_o_4"
+                                    wId="mnre1045_2__content_o_1__list_o_1__item_o_4">
+                                    <LiNummer>•</LiNummer>
+                                    <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor <IntIoRef eId="content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       wId="mnre1045_2__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       ref="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1">tracés van buisleidingenstroken</IntIoRef>.</Al>
+                                 </Li>
+                              </Lijst>
+                              <Al>Het Programma Energiehoofdstructuur zal nagaan in hoeverre deze aanwijzingen nog actueel zijn en in stand moeten blijven, en in hoeverre er nieuwe aanwijzingen nodig zijn.</Al>
+                              <Al>Het Barro wordt onder de Omgevingswet vervangen door het Besluit kwaliteit leefomgeving (Bkl).</Al>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Lichaam>
+                     <Bijlage eId="cmp_o_1" wId="mnre1045_2__cmp_o_1">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Opschrift>Overzicht van informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_o_1__content_o_1" wId="mnre1045_2__cmp_o_1__content_o_1">
+                           <Inhoud>
+                              <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                 wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1">
+                                 <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                    wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_1"><!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
+                                    <Term>vestigingsplaatsen voor grootschalige elektriciteitsopwekking &gt;500MW</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                             wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                             ref="/join/id/regdata/mnre1045/2022/20221125003/nld@2022-11-25;2">/join/id/regdata/mnre1045/2022/20221125003/nld@2022-11-25;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
+                                    wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_2"><!--or_elektriciteit_vestigingsplaats_kernenergie.gml-->
+                                    <Term>vestigingsplaatsen voor kernenergiecentrales</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                             wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                             ref="/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25;2">/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_3"
+                                    wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_3"><!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
+                                    <Term>reserveringen voor hoogspanningsverbindingen</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                             wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                             ref="/join/id/regdata/mnre1045/2022/20221125002/nld@2022-11-25;2">/join/id/regdata/mnre1045/2022/20221125002/nld@2022-11-25;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_4"
+                                    wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_4"><!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
+                                    <Term>tracés van buisleidingenstroken</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                             wId="mnre1045_2__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                             ref="/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25;2">/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                              </Begrippenlijst>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                  </RegelingVrijetekst>
+               </VervangRegeling>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1045/2022/PE001-003</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/PE001-003/nld@2022-11-25;2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>2</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_010</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
