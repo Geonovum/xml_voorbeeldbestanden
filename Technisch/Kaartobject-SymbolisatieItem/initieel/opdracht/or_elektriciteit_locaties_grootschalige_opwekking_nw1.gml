@@ -619,3 +619,4 @@
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>
   </geo:vastgesteldeVersie>
+</geo:GeoInformatieObjectVaststelling>
