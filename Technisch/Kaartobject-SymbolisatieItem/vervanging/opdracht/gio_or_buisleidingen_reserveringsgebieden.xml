@@ -3,7 +3,7 @@
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/mnre1045/2022/20221125001</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25;2</FRBRExpression>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/20221125001/nld@2022-11-25</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -11,7 +11,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>or_buisleidingen_reserveringsgebieden_2021-07-13.gml</bestandsnaam>
-            <hash>f65662e5a7599ee30844e709f17e1ce2f6562c7e0aba632c5375ed696d089be1f36aab289e24632974073fcd958ea41cb89415f8d06e9d37c3a17a3948a48a9a</hash>
+            <hash>69cbfbcde159a963785d8440c832ff8e46c58853b30b63d7ae7d3b3cfc1dafb8b29bb845e1e0c19bd7fc98e7ebf3ed9d93440011e6a1d7e7864e1d513e7215d5</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

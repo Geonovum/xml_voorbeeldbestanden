@@ -3,7 +3,7 @@
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/mnre1045/2022/20221125004</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25;2</FRBRExpression>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/20221125004/nld@2022-11-25</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -11,7 +11,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>or_elektriciteit_vestigingsplaats_kernenergie.gml</bestandsnaam>
-            <hash>94e081d079055f35007147c76e7248e1842f05ef4f61f0245081734a62ce71155863e851490b4b454f3085ffa254adb730acb09019de5f97988e1f755afa518e</hash>
+            <hash>69fa258cb04bf23e732d295ecee768abe7fba44272ba687f1ff1ba4095291fba20265e13b8b52c76baceec5dbc1fcd36b3463fb171f7418103eecea35af17e03</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
